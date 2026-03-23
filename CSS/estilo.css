@@ -118,6 +118,20 @@ img{
     background-color: #e63950;
     transform: scale(1.05);
   }
+  ul{
+    list-style:none;
+    padding:0;
+    margin-top:10px;
+    }
+    ul li{
+    background:#fce5fd;
+    padding:8px 12px;
+    margin-bottom:8px;
+    border-radius:6px;
+    font-size:14px;
+    box-shadow:0 1px 3px rgba(0,0,0,0.1);
+    }
+    
 
 
 
